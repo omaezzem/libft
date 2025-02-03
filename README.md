@@ -1,2 +1,2 @@
-# libft
-125%
+# 42curses
+libft
